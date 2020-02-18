@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/USER/Desktop/U/7 Semestre/Simulacion/1 Corte/Repositorios/Ondas GravitacionalesRepo/Space
+    Bodies/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
